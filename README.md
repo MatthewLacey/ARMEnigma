@@ -26,12 +26,12 @@ The number 8 would be YI and the number 57 would be YTU
 Your output should be put into letter blocks of four to six letters.
 
 #### Emulator Commands:
-**-h: display help menu
+**-h: display help menu**
 
-**-t: switch between character and sentence input
+**-t: switch between character and sentence input**
 
-**-r: reinitialize cogs
+**-r: reinitialize cogs**
 
-**-w: wipe screen
+**-w: wipe screen**
 
-**-q: quit Enigma
+**-q: quit Enigma**
