@@ -1,7 +1,3 @@
-@ # Matthew Lacey
-@ # CSCI 39
-@ # Final Project
-
 /*
 # This is an emulator of the Enigma Machine used in WWII.
 # There are three predefined cogs, and a reflector. There
