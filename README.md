@@ -27,7 +27,11 @@ Your output should be put into letter blocks of four to six letters.
 
 #### Emulator Commands:
 **-h: display help menu
--t: switch between character and sentence input
--r: reinitialize cogs
--w: wipe screen
--q: quit Enigma**
+
+**-t: switch between character and sentence input
+
+**-r: reinitialize cogs
+
+**-w: wipe screen
+
+**-q: quit Enigma
