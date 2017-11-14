@@ -1,5 +1,5 @@
 /*
-# This is an emulator of the Enigma Machine used in WWII.
+# This is an simulated version of the Enigma Machine used in WWII.
 # There are three predefined cogs, and a reflector. There
 # is no plug board. 
 */
